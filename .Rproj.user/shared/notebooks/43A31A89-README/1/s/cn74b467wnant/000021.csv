@@ -1,1 +1,0 @@
-"0","plot(cpi_irf$irf$GDPCTPI[,3],typ='l',ylab='Federal Funds Rate',ylim=c(0.0,0.75))"

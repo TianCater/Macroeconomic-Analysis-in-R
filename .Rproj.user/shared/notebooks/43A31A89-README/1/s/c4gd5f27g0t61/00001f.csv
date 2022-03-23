@@ -1,1 +1,0 @@
-"0","plot(fedfund_irf$irf$FEDFUNDS[,3],typ='l',ylab='Federal Funds Rate',ylim=c(-0.5,1.5))"

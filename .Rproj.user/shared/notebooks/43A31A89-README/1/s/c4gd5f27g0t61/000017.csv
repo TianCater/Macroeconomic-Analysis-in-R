@@ -1,1 +1,0 @@
-"0","plot(fedfund_irf$irf$FEDFUNDS[,2],typ='l',ylab='Unemployment',ylim=c(-0.2,0.3))"

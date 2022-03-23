@@ -1,7 +1,0 @@
-"0","macro_data <- merge(GDPCTPI,UNRATE,FEDFUNDS)"
-"0","macro_data <- na.omit(macro_data)"
-"0","macro_data[,1] <- 400*Delt(macro_data[,1],type = 'log')"
-"0","macro_data <- na.omit(macro_data)"
-"0","mdl2 <- VAR(macro_data,p = 4)"
-"0","foreacst_mdl <- predict(mdl2,n.ahead=12)"
-"0","plot(foreacst_mdl)"

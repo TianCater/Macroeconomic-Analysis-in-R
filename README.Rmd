@@ -13,6 +13,7 @@ header-includes:
 \fontsize{12}{12}
 \selectfont
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,tidy.opts=list(width.cutoff=45),tidy=TRUE,warning = F,message = F,fig.align = 'center')
 ```
@@ -21,6 +22,8 @@ knitr::opts_chunk$set(echo = TRUE,tidy.opts=list(width.cutoff=45),tidy=TRUE,warn
 ##Purpose
 
 This project is an attempt by myself to master macroeconomic modelling within R. 
+
+So far we have covered models of long-run economic growth: the Solow-Swan model and Romer's endgoenous growth model. These have are \emph{supply-side} models that were entirely focused on the productive capacity of the economy (based on capital and knowledge accumulation). 
 
 
 ```{r}

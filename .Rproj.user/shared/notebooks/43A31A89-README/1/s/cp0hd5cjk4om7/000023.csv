@@ -1,3 +1,0 @@
-"0","library(quantmod)"
-"0","smooth_ustar <- SMA(u_star_plus_v,12)"
-"0","lines(index(unemp_cpi_annual),smooth_ustar,col = 4,lwd=2)"

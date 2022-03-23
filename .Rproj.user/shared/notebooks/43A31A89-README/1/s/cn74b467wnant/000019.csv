@@ -1,1 +1,0 @@
-"0","plot(cpi_irf$irf$GDPCTPI[,2],typ='l',ylab='Unemployment',ylim=c(-0.1,0.3))"
