@@ -1,0 +1,1 @@
+"0","plot(unrate_irf$irf$UNRATE[,2],typ='l',ylab='Unemployment')"

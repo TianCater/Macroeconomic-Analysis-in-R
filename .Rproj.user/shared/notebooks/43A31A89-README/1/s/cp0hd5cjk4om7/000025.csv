@@ -1,0 +1,1 @@
+"0","legend('bottomleft',legend = c('U* + error/beta','U*'),lty = 1,col = c(1,4),lwd=c(1,4),cex=0.75)"

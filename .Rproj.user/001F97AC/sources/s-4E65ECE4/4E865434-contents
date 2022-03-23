@@ -1,0 +1,4 @@
+pacman::p_load(xtable)
+pacman::p_load(huxtable)
+pacman::p_load(quantmod)
+pacman::p_load(float)

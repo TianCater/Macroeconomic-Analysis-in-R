@@ -1,0 +1,1 @@
+"0","lines(fedfund_irf$Lower$FEDFUNDS[,1],lty = 2)"

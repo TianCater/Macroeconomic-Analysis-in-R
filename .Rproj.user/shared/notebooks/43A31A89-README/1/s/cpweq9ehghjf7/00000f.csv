@@ -1,0 +1,3 @@
+"0","unrate_irf <- irf(mdl,impulse = 'UNRATE',ortho = F,n.ahead = 24,ci=0.66,runs = 300)"
+"0","par(mfrow=c(1,3))"
+"0","plot(unrate_irf$irf$UNRATE[,1],typ='l',ylab='Inflation',ylim=c(-2.0,1.0))"

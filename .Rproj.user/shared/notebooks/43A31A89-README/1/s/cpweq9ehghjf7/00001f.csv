@@ -1,0 +1,1 @@
+"0","plot(unrate_irf$irf$UNRATE[,3],typ='l',ylab='Federal Funds Rate',ylim=c(-5,1))"

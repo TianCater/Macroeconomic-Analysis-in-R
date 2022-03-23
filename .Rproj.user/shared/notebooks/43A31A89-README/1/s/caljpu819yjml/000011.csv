@@ -1,0 +1,1 @@
+"0","plot(as.numeric(unemp_cpi[,1]),as.numeric(unemp_cpi[,2]),xlab='Unemployment Rate',ylab='Inflation Rate (CPI YoY)')"

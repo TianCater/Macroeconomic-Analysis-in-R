@@ -1,0 +1,2 @@
+"0","Y_2 <- alpha_g*(autonomous_spend-b_2*r)"
+"0","lines(Y_2,r,col=2)"

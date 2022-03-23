@@ -1,0 +1,4 @@
+"0","mpc2 <- 0.9"
+"0","alpha_g2 <- 1/(1+mpc2*(tax_rate - 1 - z*tax_rate) -tax_rate*(1-z))"
+"0","Y_2 <- alpha_g2*(autonomous_spend-b*r)"
+"0","lines(Y_2,r,col=2)"
